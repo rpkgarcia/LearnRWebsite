@@ -31,7 +31,7 @@ This is a template example for lab journaling. Students in Matt Crump's Human Co
 
 4. Change everything to make it your own.
 
-5.  This is my own link [LINK](https://github.com/rpkgarcia/LearnRWebsite/Untitled.html)
+5.  This is my own link [LINK](https://rpkgarcia.github.io/LearnRWebsite/Untitled.html)
 
 
 </div>
